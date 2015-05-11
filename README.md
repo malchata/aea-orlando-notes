@@ -451,7 +451,7 @@ The following markdown is a series of notes taken across the three days of the c
 	+ Semantic markup without any CSS is technically responsive. It flows to the width of the viewport.
 - Using structurally honest markup and making good semantic markup decisions will _keep your website accessible!_
 
-###Do websites need to look exactly the same in every browser?
+###[Do websites need to look exactly the same in every browser?](http://dowebsitesneedtolookexactlythesameineverybrowser.com/)
 - **NO!**
 
 ###A Pattern of Enhancement
@@ -1368,7 +1368,49 @@ The following markdown is a series of notes taken across the three days of the c
 	+ Then apply what you learned from the conference to the table for each of the five bullet points per talk.
 
 ###4. How to Champion an Idea
--
+- Romanticizing an Idea:
+	1. Get Idea.
+	2. Build Idea.
+	3. Ship It.
+- We also romanticize our heros who invent things. But all ideas meet struggles, strife and failure.
+- The ideas are romanticized after the fact. No one remembers the struggle to get the idea to be accepted.
+- "I could never convince the financiers that Disneyland was feasible, because dreams offer too little collateral." - Walt Disney regarding the realization of Disneyland.
+	+ But he perservered, even when his brother was against it. He had media connections and pitched the idea, and attempted to secure funding.
+		* And they turned him down.
+	+ But then he went to ABC, when it was a fledgling network.
+		* Sometimes the front runner isn't always the one that wants any change.
+	+ He secured the funding, and then the rest was history.
+- You have to convince people of the idea.
+	+ Then you have to convince people to build it.
+	+ _Then_ you have to convince people to go along with shipping it to the world.
+	+ ...And so forth. This is hard to romanticize.
+
+###5. Don't be the guy on the horse when persuading people of your ideas.
+- Your bravado is not justified in the real world. It makes you an easy target.
+- It's not what you say, it's what people hear.
+- Charm (or subtlety) will be the tool you need to persuade people to respect your ideas.
+	+ Charm is designed. You craft your message to the person you're trying to persuade (e.g., social engineering), and depends on social context.
+	+ Bad: "Here is something you should be doing."
+	+ Good: "Here is something that will solve your problem."
+		* Know what their problems are, and how to frame and contextualize your idea for someone who is in need of a solution.
+		* Frame it in a way that may be of benefit to them.
+
+###6. How to Convince Your Boss
+- A: Progress is Change.
+- B: Leaders like Status Quo, Resist Change.
+- A + B = Leaders resist progress.
+- Steps:
+	1. Be awesome at your job.
+	2. Work with an influential coworker.
+		- Your idea may be better served when someone with more clout is a vehicle for it.
+	3. Plan a trial, including how to evaluate.
+		- Construct an experiment or a A/B test for a small group to see if is viable.
+	4. Pitch it.
+	5. **DO IT WELL!**
+		- If you don't do it well, you may not earn a reputation as a person who can't deliver, and that can foster distrust.
+	6. Repeat.
+
+###Now Go Convince People!
 
 -------
 #Errata
